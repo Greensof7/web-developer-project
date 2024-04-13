@@ -1,0 +1,49 @@
+
+/* .navbar {
+    background-color: rgb(236, 178, 136);
+    color:white;
+    
+}
+.navbar .nav-item .nav-link{
+    color:black;
+    
+} */
+/* .navbar ul li a{
+    background-color: rgb(208, 157, 120);
+    color: white;
+} */
+
+.carousel-item img{
+    height:600px;
+    padding: 20px;
+}
+
+.container .row i{
+    font-size: 150px;
+    color: darkgray;
+}
+
+.icon-container{
+    text-align: center;
+}
+
+.container .courseinfo-section{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    margin-top: 30px;
+}
+.container .courseinfo-section .card{
+    width: 200px;
+}
+
+.container .footer-icon-area{
+    background-color: grey;
+    height: 40px;
+}
+
+.container .lower-footer-area{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
